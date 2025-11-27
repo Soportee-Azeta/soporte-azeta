@@ -1,7 +1,7 @@
 body {
     background-image: url("D663CBAA-2B2D-42E0-832D-537FBD2D9D19.jpeg");
-    background-size: cover;      /* La imagen cubre toda la pantalla */
-    background-position: center; /* Centrada */
+    background-size: cover;      
+    background-position: center; 
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Efecto fondo fijo */
+    background-attachment: fixed;
 }
